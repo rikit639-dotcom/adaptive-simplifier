@@ -1,4 +1,4 @@
-### Release Notes: v4.7.0
+### Release Notes: v2.8.0
 
 **English**
 * Localization errors have been fixed.
